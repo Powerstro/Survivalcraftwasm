@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>Survivalcraft</RootNamespace>
+    <AssemblyName>SurvivalcraftWasm</AssemblyName>
+    <!-- Enable AOT for performance -->
+    <RunAOTCompilation>false</RunAOTCompilation>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <BlazorCacheBootResources>false</BlazorCacheBootResources>
+    <DefineConstants>$(DefineConstants);SILK_NET_WEB</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.0" PrivateAssets="all" />
+    
+    <!-- Silk.NET for WebGL support (replaces OpenTK for browser) -->
+    <PackageReference Include="Silk.NET.OpenGLES" Version="2.22.0" />
+    <PackageReference Include="Silk.NET.Windowing" Version="2.22.0" />
+    <PackageReference Include="Silk.NET.Windowing.Glfw" Version="2.22.0" />
+    <PackageReference Include="Silk.NET.Windowing.Sdl" Version="2.22.0" />
+    <PackageReference Include="Silk.NET.Maths" Version="2.22.0" />
+    <PackageReference Include="Silk.NET.Input" Version="2.22.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Game Source -->
+    <Compile Include="Game\**\*.cs" />
+    
+    <!-- Engine Source (Decompiled) -->
+    <Compile Include="Engine\**\*.cs" />
+    
+    <!-- Remove the generatedAssemblyInfo from decompilation if it exists to avoid duplicates -->
+    <Compile Remove="Engine\Properties\AssemblyInfo.cs" />
+    <Compile Remove="Game\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <!-- Assets -->
+  <ItemGroup>
+    <Content Include="Assets\**" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

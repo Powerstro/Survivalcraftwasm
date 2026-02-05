@@ -1,0 +1,44 @@
+1. The "Omni-Extension" Fix (The FindSubsystem Solution)
+The reason the game is failing on FindSubsystem and FindComponents is that these are "Extension Methods." If the AI tool doesn't see the specific file where they are defined, it thinks they don't exist.
+
+Tell your AI CLI to inject this "Helper" into the core namespace:
+
+C#
+// Add this to a new file: Engine/Serialization/GlobalExtensions.cs
+namespace Game {
+    public static class GlobalExtensions {
+        // Fixes the 'Project' does not contain 'FindSubsystem' error
+        public static T FindSubsystem<T>(this Project project, bool throwOnError = true) where T : class {
+            return project.Subsystems.Find<T>(throwOnError);
+        }
+
+        // Fixes the 'Entity' does not contain 'FindComponents' error
+        public static IEnumerable<T> FindComponents<T>(this Entity entity) where T : class {
+            return entity.Components.OfType<T>();
+        }
+    }
+}
+2. The WebGL "Auto-Translator" Rule
+To ensure the code works with WebGL, tell the AI to perform a Global Search and Replace based on these rules:
+
+Rule A: Any time you see OpenTK.Graphics.OpenGL, replace it with OpenTK.Graphics.ES20 (This is the WebGL-compatible version).
+
+Rule B: If a method requires an IntPtr (a Windows memory address), replace it with a 0 or a JS-compatible handle. Browsers don't use pointers!
+
+Rule C: Change all System.Drawing references to use the game's internal Engine.Media.Image class. Browsers hate System.Drawing.
+
+3. The "Big Guns" CLI Command
+Copy and paste this instruction to your AI assistant/CLI to handle the 926-file sweep:
+
+"Act as a Senior Engine Porter. We are moving Survivalcraft 2.3 to WebAssembly.
+
+Task 1: Apply a global 'using Game;' and 'using Engine;' to all files reporting missing extension methods. Task 2: Fix 'ComponentGui' cast errors by accessing the '.RootWidget' property (e.g., (ContainerWidget)gui.RootWidget). Task 3: In GLWrapper.cs, find all OpenGL Enum errors and apply explicit casts (e.g., (ActiveUniformType)someInt). Task 4: Ensure all Texture loading uses the Web-friendly Stream instead of local file paths.
+
+Proceed through the 926 files using these logic rules to resolve the 32 remaining build errors."
+
+Why this "Revives" the game
+By creating this Wrapper, you are making the game "Engine Agnostic."
+
+If WebGL is slow, the wrapper can be pointed to WebGPU.
+
+If the original developer sees this, they'll see a codebase that is clean, modern, and ready for the next 10 years of browsers.

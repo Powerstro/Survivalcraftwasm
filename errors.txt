@@ -1,0 +1,2933 @@
+(index):456 WebGL wrapper loaded - Version 1.2.1
+blazor.webassembly.js?v=638700000000000000:1 Debugging hotkey: Shift+Alt+D (when application has focus)
+aspnetcore-browser-refresh.js:355 WebSocket connection to 'wss://localhost:51162/' failed: 
+(anonymous) @ aspnetcore-browser-refresh.js:355
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 PROGRAM MAIN START - Version: 639058337004840000
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Survivalcraft WASM Starting...
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Setting up logging...
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Binding events...
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Pre-fetching Content.pak...
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Pre-fetched 35523789 bytes.
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Initializing Wasm Hook...
+blazor.webassembly.js?v=638700000000000000:1 Initializing WebGL via JS...
+(index):58 Initializing WebGL on silk-canvas
+(index):104 WebGL initialized - Version: WebGL 2.0 (OpenGL ES 3.0 Chromium)
+blazor.webassembly.js?v=638700000000000000:1 [STARTUP] Starting host...
+blazor.webassembly.js?v=638700000000000000:1 Creating Dummy GL Context...
+blazor.webassembly.js?v=638700000000000000:1 GLWrapper.Initialize called.
+blazor.webassembly.js?v=638700000000000000:1 GL Info: Google Inc. (WASM) | Webkit | WebGL 1.0
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Vendor: Google Inc. (WASM)
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Renderer: Webkit
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Version: WebGL 1.0
+blazor.webassembly.js?v=638700000000000000:1 GLWrapper.Initialize called.
+blazor.webassembly.js?v=638700000000000000:1 GL Info: Google Inc. (WASM) | Webkit | WebGL 1.0
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Vendor: Google Inc. (WASM)
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Renderer: Webkit
+blazor.webassembly.js?v=638700000000000000:1 [Information] GLES Version: WebGL 1.0
+blazor.webassembly.js?v=638700000000000000:1 Audio initialization skipped or failed: The value cannot be an empty string. (Parameter 'path')
+blazor.webassembly.js?v=638700000000000000:1 Starting JS Loop...
+blazor.webassembly.js?v=638700000000000000:1 First Tick executing...
+blazor.webassembly.js?v=638700000000000000:1 [FRAME] First frame - calling Initialize()
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Initializing Game Systems...
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 1/5: SettingsManager.Initialize()
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 1/5: SettingsManager - OK
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 2/5: VersionsManager.Initialize()
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 2/5: VersionsManager - OK
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 3/5: ExternalContentManager.Initialize()
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 3/5: ExternalContentManager - OK
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 4/5: ContentManager.Initialize()
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 4/5: ContentManager - OK
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 5/5: ScreensManager.Initialize()
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Step 5/5: ScreensManager - OK
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 [INIT] Initialization Complete!
+blazor.webassembly.js?v=638700000000000000:1 ========================================
+blazor.webassembly.js?v=638700000000000000:1 [BaseFlatBatch] Creating UnlitShader...
+blazor.webassembly.js?v=638700000000000000:1 [BaseFlatBatch] Parameters: useVertexColor=true, useTexture=false, useAlphaThreshold=false
+blazor.webassembly.js?v=638700000000000000:1 [BaseFlatBatch] UnlitShader created successfully!
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: vertexAttribPointer: no ARRAY_BUFFER is bound and offset is non-zero
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+(index):433 WebGL: INVALID_OPERATION: drawElements: no buffer is bound to enabled attribute
+window.gl_drawElements @ (index):433
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+blazor.webassembly.js?v=638700000000000000:1 [Information] Downloading MOTD
+blazor.webassembly.js?v=638700000000000000:1 [Warning] Could not check internet connection availability.
+blazor.webassembly.js?v=638700000000000000:1 wininet.dll
+blazor.webassembly.js?v=638700000000000000:1 [Information] Downloading MOTD
+blazor.webassembly.js?v=638700000000000000:1 [Warning] Could not check internet connection availability.
+blazor.webassembly.js?v=638700000000000000:1 wininet.dll
+blazor.webassembly.js?v=638700000000000000:1 [Information] Downloaded MOTD
+blazor.webassembly.js?v=638700000000000000:1 [Information] Downloaded MOTD
+(index):273 WebGL: too many errors, no more errors will be reported to the console for this context.
+window.gl_vertexAttribPointer @ (index):273
+invokeJSFromDotNet @ blazor.webassembly.js?v=638700000000000000:1
+Zt @ blazor.webassembly.js?v=638700000000000000:1
+(anonymous) @ invoke-js.ts:319
+Fc @ invoke-js.ts:78
+$func288 @ dotnet.native.y68cfu4kuf.wasm:0x1f35a
+$func219 @ dotnet.native.y68cfu4kuf.wasm:0x1c95a
+$func210 @ dotnet.native.y68cfu4kuf.wasm:0xeaaf
+$func247 @ dotnet.native.y68cfu4kuf.wasm:0x1d5bb
+$func3224 @ dotnet.native.y68cfu4kuf.wasm:0xf1692
+$func2547 @ dotnet.native.y68cfu4kuf.wasm:0xc71a2
+$func2552 @ dotnet.native.y68cfu4kuf.wasm:0xc799a
+$func2576 @ dotnet.native.y68cfu4kuf.wasm:0xca061
+$mono_wasm_invoke_jsexport @ dotnet.native.y68cfu4kuf.wasm:0xad48
+Module._mono_wasm_invoke_jsexport @ dotnet.native.xidrk0eo52.js:8
+gn @ managed-exports.ts:297
+(anonymous) @ invoke-cs.ts:321
+beginInvokeDotNetFromJS @ blazor.webassembly.js?v=638700000000000000:1
+invokeDotNetMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+invokeMethodAsync @ blazor.webassembly.js?v=638700000000000000:1
+loop @ (index):122
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+requestAnimationFrame
+loop @ (index):123
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 Serving Content.pak from memory cache.
+blazor.webassembly.js?v=638700000000000000:1 [Error] Loading error. Reason: Object reference not set to an instance of an object.
